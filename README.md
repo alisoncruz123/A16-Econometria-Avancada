@@ -1,1 +1,2 @@
-# A16-Econometria-Avancada
+# 16-Metodologia_Box-Jenkings
+Metodo BJ
